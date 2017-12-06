@@ -19,5 +19,24 @@ img{
 	height: auto;
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
-	
 }
+/*fin seccion 1*/
+/*inicio seccion 2*/
+
+.stroke-coral{
+	background-color: #ff8a80; 
+	width: 100%;
+	height: 5em;
+	margin-top: -1.7em;
+}
+/*fin seccion 2*/
+.background-green{
+	background-color: #b2ff59;
+	width: 100%
+	height: auto;
+	margin-top: -4em;
+}
+.card-panel{
+	text-align: center;
+}
+
